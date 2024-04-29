@@ -1,0 +1,14 @@
+{
+  "name": "scratch-axios-network-error",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "devDependencies": {
+    "axios": "^1.7.0-beta.0",
+    "jsdom": "^24.0.0",
+    "msw": "^2.2.14",
+    "vitest": "^1.5.2"
+  }
+}
